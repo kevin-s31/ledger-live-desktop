@@ -47,7 +47,7 @@
     "@ledgerhq/electron-updater": "^4.2.2",
     "@ledgerhq/errors": "6.10.0",
     "@ledgerhq/hw-transport": "6.27.1",
-    "@ledgerhq/hw-transport-http": "6.27.1",
+    "@ledgerhq/hw-transport-http": "6.32.0",
     "@ledgerhq/hw-transport-node-hid-singleton": "6.27.1",
     "@ledgerhq/live-common": "https://github.com/LedgerHQ/ledger-live-common.git#develop",
     "@ledgerhq/logs": "6.10.0",
